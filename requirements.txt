@@ -1,0 +1,11 @@
+streamlit
+streamlit-audiorecorder
+openai-whisper
+pydub
+ffmpeg-python
+torch
+transformers
+accelerate
+huggingface-hub
+langchain
+rouge_score
