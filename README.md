@@ -7,6 +7,8 @@ Steps to run the code
 
 Requirements:
 pip install requirements.txt
+
 $Env:HF_TOKEN = "" ## Set your environment key here
+
 streamlit run sample_check.py
 
